@@ -53,19 +53,19 @@ Lecture 10: Case Study: RL in Classic Games [link](http://www0.cs.ucl.ac.uk/staf
 
 ## MARL课程
 
-### Multi-Agent Reinforcement Learning Tutorial (SJTU2018)
+### Multi-Agent Reinforcement Learning Tutorial（SJTU2018）
 
  课程主页 [link](http://wnzhang.net/tutorials/marl2018/index.html)
 
- Lecture1-Fundamentals of Reinforcement Learning  [link](http://wnzhang.net/tutorials/marl2018/docs/lecture-1-rl.pdf)
+ Lecture1: Fundamentals of Reinforcement Learning  [link](http://wnzhang.net/tutorials/marl2018/docs/lecture-1-rl.pdf)
 
- Lecture2a-Fundamentals of Game Theory [link](http://wnzhang.net/tutorials/marl2018/docs/lecture-2a-game-theory.pdf)
+ Lecture2a: Fundamentals of Game Theory [link](http://wnzhang.net/tutorials/marl2018/docs/lecture-2a-game-theory.pdf)
 
- Lecture2b-Learning in Repeated Games [link](http://wnzhang.net/tutorials/marl2018/docs/lecture-2b-repeated-games.pdf)
+ Lecture2b: Learning in Repeated Games [link](http://wnzhang.net/tutorials/marl2018/docs/lecture-2b-repeated-games.pdf)
 
- Lecture3a-Multi-Agent Reinforcement Learning(a) [link](http://wnzhang.net/tutorials/marl2018/docs/lecture-3a-marl-1.pdf)
+ Lecture3a: Multi-Agent Reinforcement Learning(a) [link](http://wnzhang.net/tutorials/marl2018/docs/lecture-3a-marl-1.pdf)
 
- Lecture3b-Multi-Agent Reinforcement Learning(b) [link](http://wnzhang.net/tutorials/marl2018/docs/lecture-3b-marl-2.pdf)
+ Lecture3b: Multi-Agent Reinforcement Learning(b) [link](http://wnzhang.net/tutorials/marl2018/docs/lecture-3b-marl-2.pdf)
 
 
 ## DRL课程
