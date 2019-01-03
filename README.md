@@ -13,21 +13,21 @@
     - [台湾大学 李宏毅 （深度）强化学习](#台湾大学-李宏毅-（深度）强化学习)
 - [代码](#代码)
 - [论文](#论文)
-  -[2018 NIPS](#2018-nips)
+  - [2018 NIPS](#2018-nips)
 
-## 书
-### Reinforcement Learning: An Introduction
+# 书
+## Reinforcement Learning: An Introduction
 
 Github转存PDF: [link](https://github.com/kirsguo/kirsguo_library/blob/master/book/Reinforcement%20Learning%20-%20An%20Introduction.pdf )
 
-### Multi-agent Machine Learning: A Reinforcement Approach
+## Multi-agent Machine Learning: A Reinforcement Approach
 
 Github转存PDF: [link](https://github.com/kirsguo/kirsguo_library/blob/master/book/multi-agent%20machine%20learning%20a%20reinforcement%20approach.pdf)
 
-## 课程
-### 基础课程
+# 课程
+## 基础课程
 
-#### David Silver 强化学习课程（UCL2015）
+### David Silver 强化学习课程（UCL2015）
 
 课程主页：[link](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 
@@ -51,9 +51,9 @@ Lecture 9: Exploration and Exploitation [link](http://www0.cs.ucl.ac.uk/staff/d.
 
 Lecture 10: Case Study: RL in Classic Games [link](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/games.pdf)
 
-### MARL课程
+## MARL课程
 
-#### Multi-Agent Reinforcement Learning Tutorial (SJTU2018)
+### Multi-Agent Reinforcement Learning Tutorial (SJTU2018)
 
  课程主页 [link](http://wnzhang.net/tutorials/marl2018/index.html)
 
@@ -68,15 +68,14 @@ Lecture 10: Case Study: RL in Classic Games [link](http://www0.cs.ucl.ac.uk/staf
  Lecture3b-Multi-Agent Reinforcement Learning(b) [link](http://wnzhang.net/tutorials/marl2018/docs/lecture-3b-marl-2.pdf)
 
 
-### DRL课程
+## DRL课程
 
-#### 台湾大学 李宏毅 （深度）强化学习
+### 台湾大学 李宏毅 （深度）强化学习
 课程主页 [link](http://speech.ee.ntu.edu.tw/~tlkagk/courses/)
 
 视频可以在B站上看到：[link](https://www.bilibili.com/video/av24724071?from=search&seid=14814651069494196110)
 
-## 代码
+# 代码
 结合他人的代码对RL的练习：[link](https://github.com/kirsguo/kirsguo_library/tree/master/Code/RL_kirsguo)
-## 论文
-### 2018 NIPS
-[link](https://github.com/kirsguo/kirsguo_library/tree/master/paper/2018%20NIPS%20)
+# 论文
+## 2018 NIPS [link](https://github.com/kirsguo/kirsguo_library/tree/master/paper/2018%20NIPS%20)
