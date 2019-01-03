@@ -29,6 +29,8 @@ Github转存PDF: [link](https://github.com/kirsguo/kirsguo_library/blob/master/b
 
 ### David Silver 强化学习课程（UCL2015）
 
+Github转存 [link](https://github.com/kirsguo/kirsguo_library/tree/master/Course/David%20Silver%20强化学习课程（UCL2015）)
+
 课程主页：[link](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 
 Lecture 1: Introduction to Reinforcement Learning [link](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/intro_RL.pdf)
@@ -55,17 +57,19 @@ Lecture 10: Case Study: RL in Classic Games [link](http://www0.cs.ucl.ac.uk/staf
 
 ### Multi-Agent Reinforcement Learning Tutorial（SJTU2018）
 
- 课程主页 [link](http://wnzhang.net/tutorials/marl2018/index.html)
+Github转存 [link](https://github.com/kirsguo/kirsguo_library/tree/master/Course/MARL%20Tutorial(SJTU2018))
 
- Lecture1: Fundamentals of Reinforcement Learning  [link](http://wnzhang.net/tutorials/marl2018/docs/lecture-1-rl.pdf)
+课程主页 [link](http://wnzhang.net/tutorials/marl2018/index.html)
 
- Lecture2a: Fundamentals of Game Theory [link](http://wnzhang.net/tutorials/marl2018/docs/lecture-2a-game-theory.pdf)
+Lecture1: Fundamentals of Reinforcement Learning  [link](http://wnzhang.net/tutorials/marl2018/docs/lecture-1-rl.pdf)
 
- Lecture2b: Learning in Repeated Games [link](http://wnzhang.net/tutorials/marl2018/docs/lecture-2b-repeated-games.pdf)
+Lecture2a: Fundamentals of Game Theory [link](http://wnzhang.net/tutorials/marl2018/docs/lecture-2a-game-theory.pdf)
 
- Lecture3a: Multi-Agent Reinforcement Learning(a) [link](http://wnzhang.net/tutorials/marl2018/docs/lecture-3a-marl-1.pdf)
+Lecture2b: Learning in Repeated Games [link](http://wnzhang.net/tutorials/marl2018/docs/lecture-2b-repeated-games.pdf)
 
- Lecture3b: Multi-Agent Reinforcement Learning(b) [link](http://wnzhang.net/tutorials/marl2018/docs/lecture-3b-marl-2.pdf)
+Lecture3a: Multi-Agent Reinforcement Learning(a) [link](http://wnzhang.net/tutorials/marl2018/docs/lecture-3a-marl-1.pdf)
+
+Lecture3b: Multi-Agent Reinforcement Learning(b) [link](http://wnzhang.net/tutorials/marl2018/docs/lecture-3b-marl-2.pdf)
 
 
 ## DRL课程
