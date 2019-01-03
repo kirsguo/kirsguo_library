@@ -1,8 +1,8 @@
 # 学习资料总结
 
 - [书](#书)
-  - [Reinforcement Learning: An Introduction](#reinforcement-learning:-an-introduction)
-  - [Multi-agent Machine Learning: A Reinforcement Approach](#multi-agent-machine-learning:-a-reinforcement-approach)
+  - [Reinforcement Learning: An Introduction](#reinforcement-learning-an-introduction)
+  - [Multi-agent Machine Learning: A Reinforcement Approach](#multi-agent-machine-learning-a-reinforcement-approach)
 
 - [课程](#课程)
   - [基础课程](#基础课程)
