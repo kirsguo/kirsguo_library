@@ -5,13 +5,13 @@
 
   - [Multi-agent Machine Learning: A Reinforcement Approach](#multi-agent-machine-learning:-a-reinforcement-approach)
 
-
-
  - [课程](#课程)
   - [基础课程](#基础课程)
     - [David Silver 强化学习课程](#david-silver-强化学习课程（UCL2015）)
+
   - [MARL课程](#MARL课程)
     - [Multi-Agent Reinforcement Learning Tutorial](#multi-agent-reinforcement-learning-tutorial-(SJTU2018))
+
   - [DRL课程](#DRL课程)
     - [台湾大学 李宏毅 （深度）强化学习](#台湾大学-李宏毅-（深度）强化学习)
 
