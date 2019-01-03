@@ -13,7 +13,7 @@
     - [台湾大学 李宏毅 （深度）强化学习](#台湾大学-李宏毅-（深度）强化学习)
 - [代码](#代码)
 - [论文](#论文)
-  - [2018 NIPS](#2018-nips)
+  - [NIPS](#nips)
 
 # 书
 ## Reinforcement Learning: An Introduction
@@ -78,4 +78,5 @@ Lecture 10: Case Study: RL in Classic Games [link](http://www0.cs.ucl.ac.uk/staf
 # 代码
 结合他人的代码对RL的练习：[link](https://github.com/kirsguo/kirsguo_library/tree/master/Code/RL_kirsguo)
 # 论文
-## 2018 NIPS [link](https://github.com/kirsguo/kirsguo_library/tree/master/paper/2018%20NIPS%20)
+### NIPS
+2018 [link](https://github.com/kirsguo/kirsguo_library/tree/master/paper/2018%20NIPS%20)
