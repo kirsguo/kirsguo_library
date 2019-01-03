@@ -9,10 +9,11 @@
 
  - [课程](#课程)
   - [基础课程](#基础课程)
-    - [David Silver 强化学习课程](## David Silver 强化学习课程（UCL2015）)
-    - [Multi-Agent Reinforcement Learning Tutorial](## Multi-Agent Reinforcement Learning Tutorial(SJTU2018))
-  - [深度DRL课程](#深度DRL课程)
-    - [台湾大学 李宏毅 （深度）强化学习](## 台湾大学 李宏毅 （深度）强化学习)
+    - [David Silver 强化学习课程](#david-silver-强化学习课程（UCL2015）)
+  - [MARL课程](#MARL课程)
+    - [Multi-Agent Reinforcement Learning Tutorial](#multi-agent-reinforcement-learning-tutorial-(SJTU2018))
+  - [DRL课程](#DRL课程)
+    - [台湾大学 李宏毅 （深度）强化学习](#台湾大学-李宏毅-（深度）强化学习)
 
 ## 书
 ### Reinforcement Learning: An Introduction [link](https://github.com/kirsguo/kirsguo_library/blob/master/book/Reinforcement%20Learning%20-%20An%20Introduction.pdf )
@@ -47,8 +48,9 @@ Lecture 9: Exploration and Exploitation [link](http://www0.cs.ucl.ac.uk/staff/d.
 
 Lecture 10: Case Study: RL in Classic Games [link](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/games.pdf)
 
+## MARL课程
 
-### Multi-Agent Reinforcement Learning Tutorial(SJTU2018)
+### Multi-Agent Reinforcement Learning Tutorial (SJTU2018)
 
  课程主页 [link](http://wnzhang.net/tutorials/marl2018/index.html)
 
@@ -63,7 +65,7 @@ Lecture 10: Case Study: RL in Classic Games [link](http://www0.cs.ucl.ac.uk/staf
  Lecture3b-Multi-Agent Reinforcement Learning(b) [link](http://wnzhang.net/tutorials/marl2018/docs/lecture-3b-marl-2.pdf)
 
 
-## 深度DRL课程
+## DRL课程
 
 ### 台湾大学 李宏毅 （深度）强化学习
 课程主页 [link](http://speech. ee.ntu.edu.tw/~tlkagk/courses/)
